@@ -1,0 +1,5 @@
+
+2023-04-25 04:57:02.305486 : num_103, epoch_0, n_hiper_30, learning_rate_0.003 loss_0.0199041358
+2023-04-25 04:58:59.413290 : num_103, epoch_1, n_hiper_30, learning_rate_0.003 loss_0.0167722777
+2023-04-25 05:00:56.485077 : num_103, epoch_2, n_hiper_30, learning_rate_0.003 loss_0.0156066987
+2023-04-25 05:02:53.558984 : num_103, epoch_3, n_hiper_30, learning_rate_0.003 loss_0.0147217173

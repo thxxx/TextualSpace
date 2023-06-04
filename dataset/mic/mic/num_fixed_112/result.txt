@@ -1,0 +1,9 @@
+
+2023-04-27 09:27:40.122894 : num_112, epoch_0, n_hiper_30, learning_rate_0.003 loss_0.0289172487
+2023-04-27 09:31:09.230738 : num_112, epoch_1, n_hiper_30, learning_rate_0.003 loss_0.0236161023
+2023-04-27 09:34:38.673326 : num_112, epoch_2, n_hiper_30, learning_rate_0.003 loss_0.020217727
+2023-04-27 09:38:08.891357 : num_112, epoch_3, n_hiper_30, learning_rate_0.003 loss_0.0185588772
+2023-04-27 09:46:08.396270 : num_112, epoch_0, n_hiper_30, learning_rate_0.003 loss_0.0341599409
+2023-04-27 09:49:37.907682 : num_112, epoch_1, n_hiper_30, learning_rate_0.003 loss_0.0293105379
+2023-04-27 09:53:07.390205 : num_112, epoch_2, n_hiper_30, learning_rate_0.003 loss_0.0250678116
+2023-04-27 09:56:36.782720 : num_112, epoch_3, n_hiper_30, learning_rate_0.003 loss_0.0223287969
