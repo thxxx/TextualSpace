@@ -12,8 +12,8 @@ Average LPIPS : 0.16
 
 Result Example
 <br/>
-<img src="https://github.com/thxxx/TextualSpace/assets/27672442/8b41a73a-ff53-447b-8b69-6df8ac8433e8" width="800" height="400"/>
+<img src="https://github.com/thxxx/TextualSpace/assets/27672442/8b41a73a-ff53-447b-8b69-6df8ac8433e8" width="700" height="400"/>
 
 Embeddig space example
 <br/>
-<img src="https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba" width="500" height="500"/>
+<img src="https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba" width="400" height="400"/>
