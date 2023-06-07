@@ -11,7 +11,9 @@ Metric of Synthesised novel view by our method
 Average LPIPS : 0.16
 
 Result Example
-
+<br/>
+![Group 138](https://github.com/thxxx/TextualSpace/assets/27672442/8b41a73a-ff53-447b-8b69-6df8ac8433e8)
 
 Embeddig space example
-![Group 139](https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba)
+<br/>
+<img src="[이미지주소.png](https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba)" width="200" height="400"/>
