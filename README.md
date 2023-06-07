@@ -16,4 +16,4 @@ Result Example
 
 Embeddig space example
 <br/>
-<img src="[이미지주소.png](https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba)" width="200" height="400"/>
+<img src="https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba" width="200" height="400"/>
