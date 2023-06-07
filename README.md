@@ -14,3 +14,4 @@ Result Example
 
 
 Embeddig space example
+![Group 139](https://github.com/thxxx/TextualSpace/assets/27672442/c4a2ac67-c48c-4258-9298-130266d9c4ba)
